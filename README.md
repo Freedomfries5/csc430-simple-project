@@ -32,3 +32,14 @@ We will soon be looking at Travis CI as another convenient tool, but
 it is not required for this project. If you would like to prepare for
 what is coming in the future, though, feel free to log into Travis
 and check your build process there!
+
+# Note About Academic Honesty
+
+You should keep your code and repositories private and should not
+be sharing code under any circumstances. Also, when forking your
+projects, you should make sure the repository is set to private and
+you should immediately remove the classes team AllThePeople from
+your project so that I will be the only person who can access your
+code other than you! If you do not do this and check in large
+amounts of code, I will consider this a violation of the academic
+honesty policies of MSU.
