@@ -21,6 +21,8 @@ well.
 Finally, identify the error in the code, fix it, make sure your
 test passes with Maven, commit/push the changes back to GitHub.
 
+**Do not modify the test class in any way. You should fix the error solely by editing the Simple class**
+
 # Note
 
 You must not change the name of the repository when you fork it, or
