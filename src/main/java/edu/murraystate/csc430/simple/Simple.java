@@ -1,10 +1,11 @@
 package edu.murraystate.csc430.simple;
 
-public class Simple {
+public final class Simple {
+    
     private String contents;
 
-    public Simple(final String s){
-
+    public Simple(final String contents){
+        this.contents = contents;
     }
 
     public String getContents(){
